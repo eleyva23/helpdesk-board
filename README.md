@@ -1,3 +1,28 @@
+// My Readme. 
+- this app is a helpdesk craeted by React+ Next.js showing tickets that need a solution. Each tick has a severity and the specific issue. 
+- 
+Setup Instructions 
+-Instal Dependencies 
+''bash 
+npm install 
+Run the Development server
+bash 
+npm run dev 
+Visit my app!
+http://localhost:3000
+ Rubric 
+Category	Points	Evidence- complete 
+Project Setup & Structure	15	Next.js config and folders; app runs; README present- complete 
+Components + JSX + Keys	20	Separate components, proper JSX, stable keys by id- complete 
+Props + Lifting State	20	Board holds lifted state; children receive props and callbacks- complete 
+State + Controlled Inputs	15	useState used; filters & search are controlled; immutable updates- complete
+Effects + Cleanup	20	Fetch on mount; interval live updates with proper cleanup- complete
+UX + Conditional Rendering	10	Loading, error, empty states; disabled buttons where appropriate- complete
+Total	100	—
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
